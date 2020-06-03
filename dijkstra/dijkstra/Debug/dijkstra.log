@@ -1,0 +1,16 @@
+﻿  dijkstra.cpp
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(51,35): warning C4099: node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(43): message : см. объявление "node"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(51,50): warning C4099: node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(43): message : см. объявление "node"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(72,40): warning C4099: node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(43): message : см. объявление "node"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(72,55): warning C4099: node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(43): message : см. объявление "node"
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(201,39): warning C4101: midY2: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(201,32): warning C4101: midX2: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(235,35): warning C4101: midY2: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(235,29): warning C4101: midX2: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(488,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Данила\source\repos\dijkstra\dijkstra\dijkstra.cpp(556): warning C4715: point::solve: значение возвращается не при всех путях выполнения
+  dijkstra.vcxproj -> C:\Users\Данила\source\repos\dijkstra\Debug\dijkstra.exe
