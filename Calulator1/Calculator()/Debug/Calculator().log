@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+C:\Users\Данила\source\repos\Calculator()\Calculator()\Form1.h(362,29): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\Calculator()\Calculator()\Form1.h(476,27): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Данила\source\repos\Calculator()\Calculator()\Form1.h(487,27): warning C4101: e: неиспользованная локальная переменная
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator().vcxproj -> C:\Users\Данила\source\repos\Calculator()\Debug\Calculator().exe
